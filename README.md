@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melowdia from Polansd
+- 👋 Hi, I’m @melowdia from Poland, 26 Yo
 - 👀 I’m interested in Rust/fivem/ and some other games  
 - 🌱 I’m currently learning english and some others languages
 - 💞️ I’m looking to collaborate on lot of sthings for games
